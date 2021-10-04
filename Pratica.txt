@@ -1,0 +1,7 @@
+# 1) Gabriel + Paulo - Ruby: 
+Crie um programa orientado a objetos que calcule uma folha de pagamento, retornando uma coleção de nomes e salários a receber dos funcionários de uma empresa. 
+Todos os funcionários têm seus salários nominais descontados de 10% de previdência. 
+Funcionários com cargo de gerência têm um adicional de 30% no salário. 
+Funcionários com cargo de diretor têm um adicional de 40%. 
+Funcionários com filhos até 6 anos recebem auxílio-creche no valor de 400 reais para cada filho, com um limite de 3. 
+Os funcionários também recebem um auxílio-alimentação no valor de 280 reais. Os auxílios não geram desconto de previdência.
